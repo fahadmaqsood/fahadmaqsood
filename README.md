@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/imfahadmaqsood" target="blank"><img src="https://img.shields.io/twitter/follow/imfahadmaqsood?logo=twitter&style=for-the-badge" alt="imfahadmaqsood" /></a> </p>
 
-- 🔭 I’m currently working at [Upwork](https://upwork.com/freelancers/~01467576e294927ab4)
+- 🔭 HuggingFace link: <a href="http://huggingface.co/fahadqazi">huggingface profile</a>
 
 - 📫 How to reach me **qazifahadmaqsood@gmail.com**
 
